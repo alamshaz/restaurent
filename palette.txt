@@ -1,0 +1,10 @@
+
+$coffee-bean: rgba(29, 20, 10, 1);
+$stone-brown: rgba(107, 95, 79, 1);
+$dark-coffee: rgba(52, 42, 35, 1);
+$carbon-black: rgba(33, 29, 26, 1);
+$black: rgba(7, 6, 2, 1);
+$deep-walnut: rgba(68, 47, 28, 1);
+$onyx: rgba(16, 18, 21, 1);
+$toasted-almond: rgba(203, 143, 91, 1);
+$shadow-grey: rgba(34, 32, 33, 1);
